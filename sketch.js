@@ -155,30 +155,30 @@ function setup() {
     wronganswer.hide()
 
     // buttons of parts pop up
-    part1button = createImg("/assets/boat/part2collected.gif")
+    part1button = createImg("assets/boat/part2collected.gif")
     part1button.position(width / 4, height / 4)
     part1button.size(500, 500)
     part1button.hide()
 
-    part2button = createImg("/assets/boat/part4collected.gif")
+    part2button = createImg("assets/boat/part4collected.gif")
     part2button.position(width / 4, height / 4)
     part2button.size(500, 500)
     part2button.hide()
 
 
-    part3button = createImg("/assets/boat/part5collected.gif")
+    part3button = createImg("assets/boat/part5collected.gif")
     part3button.position(width / 4, height / 4)
     part3button.size(500, 500)
     part3button.hide()
 
 
-    part4button = createImg("/assets/boat/part6collected.gif")
+    part4button = createImg("assets/boat/part6collected.gif")
     part4button.position(width / 4, height / 4)
     part4button.size(500, 500)
     part4button.hide()
 
 
-    part5button = createImg("/assets/boat/part7collected.gif")
+    part5button = createImg("assets/boat/part7collected.gif")
     part5button.position(width / 4, height / 4)
     part5button.size(500, 500)
     part5button.hide()
