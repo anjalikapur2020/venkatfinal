@@ -11,7 +11,7 @@ function preload() {
     aboutimg = loadImage("assets/brainFactsScreen.gif")
     startimg = loadImage("assets/getSetGo.gif")
     // level1img = loadImage("/assets/level1bg.jpg")
-    level1instructions = loadImage("assets/sink.gif")
+    level1instructions = loadImage("sink.gif")
     level1bg = loadImage("assets/beach1.gif")
     boatimg = loadImage("assets/boat/boat.png")
     winbg = loadImage("assets/winimg.gif")
